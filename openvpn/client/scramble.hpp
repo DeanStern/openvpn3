@@ -51,8 +51,7 @@ namespace openvpn {
 
         case XOR_PTR_POS:
           buffer.xorptrpos();
-          break;sour
-          
+          break;
 
         case REVERSE:
           buffer.reverse();
